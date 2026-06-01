@@ -1,16 +1,16 @@
-Name: Raj kishor singh
-Roll Number: 24019201540188
+# 🚀 Summer Assignment - DSA & OOPS
 
-About
-This repository contains my solutions for the 4-Week DSA & OOPS Summer Assignment.
+## 👨‍🎓 Student Details
+- **Name:** Raj Kishor Singh  
+- **Roll Number:** 2401921540188  
 
-Repository Structure
-Summer_Assignment_2401921540188 ├── Week_1 ├── Week_2 ├── Week_3 └── Week_4
+---
 
-Each week contains:
+## 📌 About
+This repository contains my solutions for the **4-Week DSA & OOPS Summer Assignment**.  
+The goal of this assignment is to improve problem-solving skills, coding consistency, and understanding of core Data Structures, Algorithms, and Object-Oriented Programming concepts.
 
-Day_1 to Day_5: Daily LeetCode solutions
-OOPS: Weekly OOPS assignment
-Languages Used
-C++
-Object-Oriented Programming (OOPS)
+---
+
+## 📂 Repository Structure
+
